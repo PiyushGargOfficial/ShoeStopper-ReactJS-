@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbarItems {
+    width: 100%;
+    padding-left: 300px;
+    padding-top: 20px;
+}
+
+.navbarItems table tr td {
+    padding-right: 150px;
+    padding-top: 20px;
+    color: grey;
+}
+
+.navbarItems table .th td {
+    font-weight: bold;
+    color: #000;
+    padding-top: 50px;
+    border-top: 2px solid black;
+}
